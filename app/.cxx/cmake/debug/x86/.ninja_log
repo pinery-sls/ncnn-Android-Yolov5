@@ -1,0 +1,5 @@
+# ninja log v5
+1	866	1632060252	CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o	4753090506d93f57
+0	899	1632060252	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	cf6f06c29d763b07
+1	992	1632060252	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	cd602869b00ddb1b
+992	2192	1632060254	/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates/cmake/debug/obj/x86/libncnnyolov5.so	19e3efb4b917eaf5

@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/arm64-v8a/include/ncnn -isystem /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o -c /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/yolov5ncnn.cpp",
+  "file": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/yolov5ncnn.cpp"
+},
+
+{
+  "directory": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/arm64-v8a/include/ncnn -isystem /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o -c /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/yolov5.cpp",
+  "file": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/yolov5.cpp"
+},
+
+{
+  "directory": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/arm64-v8a/include/ncnn -isystem /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o -c /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ndkcamera.cpp",
+  "file": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ndkcamera.cpp"
+}
+]

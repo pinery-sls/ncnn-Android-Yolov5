@@ -1,0 +1,69 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video",
+      "sdkFolder": "/home/pinery/SoftWares/android-studio/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app",
+      "makeFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/.cxx",
+      "cxxFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx",
+      "ndkFolder": "/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670",
+      "ndkVersion": "22.1.7171670",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A",
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}

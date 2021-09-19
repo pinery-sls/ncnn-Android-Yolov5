@@ -1,0 +1,36 @@
+{
+  "buildFiles": [
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/ncnn/ncnn.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/glslangTargets-release.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVConfig.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/SPIRVTargets-release.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/CMakeLists.txt",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules-release.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/OSDependentTargets-release.cmake",
+    "/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/build/cmake/compiler_id.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/OGLCompilerTargets.cmake",
+    "/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/build/cmake/platforms.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/SPIRVTargets.cmake",
+    "/home/pinery/SoftWares/android-studio/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/glslangTargets.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ncnn-20210525-android-vulkan/x86/lib/cmake/OSDependentTargets.cmake"
+  ],
+  "cleanCommands": [
+    "/home/pinery/SoftWares/android-studio/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/pinery/SoftWares/android-studio/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolov5-Debug-x86": {
+      "artifactName": "ncnnyolov5",
+      "buildCommand": "/home/pinery/SoftWares/android-studio/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/x86\" ncnnyolov5",
+      "abi": "x86",
+      "output": "/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates/cmake/debug/obj/x86/libncnnyolov5.so"
+    }
+  }
+}

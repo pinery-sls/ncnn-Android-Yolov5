@@ -1,0 +1,3 @@
+/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/ncnnyolov5.dir

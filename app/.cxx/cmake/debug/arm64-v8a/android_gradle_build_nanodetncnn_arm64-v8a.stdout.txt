@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/nanodetncnn.dir/yolov5ncnn.cpp.o
+[2/2] Linking CXX shared library /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnanodetncnn.so

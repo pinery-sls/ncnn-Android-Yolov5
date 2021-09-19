@@ -1,0 +1,10 @@
+ninja: Entering directory `/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/x86'
+[1/4] Building CXX object CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o
+/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/src/main/jni/ndkcamera.cpp:152:117: warning: format specifies type 'long' but the argument has type 'int64_t' (aka 'long long') [-Wformat]
+    __android_log_print(ANDROID_LOG_WARN, "NdkCamera", "onCaptureSequenceCompleted %p %d %ld", session, sequenceId, frameNumber);
+                                                                                         ~~~                        ^~~~~~~~~~~
+                                                                                         %lld
+1 warning generated.
+[2/4] Building CXX object CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o
+[3/4] Building CXX object CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o
+[4/4] Linking CXX shared library /home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/build/intermediates/cmake/debug/obj/x86/libncnnyolov5.so

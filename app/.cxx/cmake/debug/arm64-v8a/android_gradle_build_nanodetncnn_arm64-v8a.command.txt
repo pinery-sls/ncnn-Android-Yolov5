@@ -1,0 +1,7 @@
+Executable : /home/pinery/SoftWares/android-studio/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/pinery/code/Deploy/Android/ncnn-android-yolov5-video/app/.cxx/cmake/debug/arm64-v8a
+nanodetncnn
+jvmArgs : 
+
