@@ -2,7 +2,7 @@
  ncnn, android, and Yolov5
 
 
-# ![demo](desk.jpg)<: width = "200" height = "300" alt="" align=center />
+# ![demo](desk.jpg)<: width = "100" height = "100" alt="" align=center />
 
 ## reference
 
