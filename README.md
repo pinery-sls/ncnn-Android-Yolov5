@@ -6,5 +6,4 @@
 
 ## reference
 
-https://github.com/nihui/ncnn-android-nanodet - automatic!
-[GitHub](https://github.com/nihui/ncnn-android-nanodet)
+https://github.com/nihui/ncnn-android-nanodet
