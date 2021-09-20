@@ -2,7 +2,7 @@
  ncnn, android, and Yolov5
 
 ## screenshot
-<img src="desk.jpg" width="1080*0.6" height="2340*0.6"/><br/>
+<img src="desk.jpg" width="648" height="1404"/><br/>
 
 ## reference
 
